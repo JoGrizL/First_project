@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="89f23ee3-7b8a-4d0b-b538-4ee27f3f7551" name="Default Changelist" comment="Второй коммент шмомент" />
+    <list default="true" id="89f23ee3-7b8a-4d0b-b538-4ee27f3f7551" name="Default Changelist" comment="верстка первого слайда" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -64,7 +64,7 @@
       <updated>1607016796480</updated>
       <workItem from="1607016812608" duration="3343000" />
       <workItem from="1607356957425" duration="60000" />
-      <workItem from="1607881276173" duration="7843000" />
+      <workItem from="1607881276173" duration="8155000" />
     </task>
     <task id="LOCAL-00001" summary="Я написал первый текст">
       <created>1607017618989</created>
@@ -101,7 +101,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607888797103</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="верстка первого слайда">
+      <created>1607889431905</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1607889431905</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -137,6 +144,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Я написал первый текст" />
     <MESSAGE value="Второй коммент шмомент" />
-    <option name="LAST_COMMIT_MESSAGE" value="Второй коммент шмомент" />
+    <MESSAGE value="верстка первого слайда" />
+    <option name="LAST_COMMIT_MESSAGE" value="верстка первого слайда" />
   </component>
 </project>
