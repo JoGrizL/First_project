@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="89f23ee3-7b8a-4d0b-b538-4ee27f3f7551" name="Default Changelist" comment="верстка первого слайда">
+    <list default="true" id="89f23ee3-7b8a-4d0b-b538-4ee27f3f7551" name="Default Changelist" comment="домашка">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
@@ -70,7 +70,7 @@
       <workItem from="1607356957425" duration="60000" />
       <workItem from="1607881276173" duration="8994000" />
       <workItem from="1608011312430" duration="3758000" />
-      <workItem from="1608015831946" duration="4990000" />
+      <workItem from="1608015831946" duration="11012000" />
     </task>
     <task id="LOCAL-00001" summary="Я написал первый текст">
       <created>1607017618989</created>
@@ -135,7 +135,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607890074148</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="домашка">
+      <created>1608020980826</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1608020980826</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -172,6 +179,7 @@
     <MESSAGE value="Я написал первый текст" />
     <MESSAGE value="Второй коммент шмомент" />
     <MESSAGE value="верстка первого слайда" />
-    <option name="LAST_COMMIT_MESSAGE" value="верстка первого слайда" />
+    <MESSAGE value="домашка" />
+    <option name="LAST_COMMIT_MESSAGE" value="домашка" />
   </component>
 </project>
