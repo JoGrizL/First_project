@@ -44,6 +44,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -54,6 +55,9 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\Intel\First_project" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="G:\Intel\First_project\images" />
     </key>
@@ -70,7 +74,7 @@
       <workItem from="1607356957425" duration="60000" />
       <workItem from="1607881276173" duration="8994000" />
       <workItem from="1608011312430" duration="3758000" />
-      <workItem from="1608015831946" duration="11012000" />
+      <workItem from="1608015831946" duration="16663000" />
     </task>
     <task id="LOCAL-00001" summary="Я написал первый текст">
       <created>1607017618989</created>
@@ -142,7 +146,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608020980826</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="домашка">
+      <created>1608027242391</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1608027242391</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
