@@ -12,6 +12,7 @@
     width: 100%;
     height: 100%;
     display: flex;
+    text-align: center;
 }
 .margin_top_0 {
     margin-top: 0!important;
@@ -34,7 +35,6 @@
 }
 .section_1 .center_content {
     flex-direction: column;
-   // z-index: 2;
 }
 .section_1 .center_content .sub_title {
     font-size: 14px;
@@ -298,4 +298,115 @@ h1, h2, h3, h4, h5, h6 {
 .section_3 .galery .item img{
     width: 360px;
     height: 225px;
+}
+
+.section_4 {
+    padding: 120px 0 100px;
+ }
+
+.section_4 .separator {
+    height: 1px;
+    width: 100px;
+    border-bottom: 1px solid;
+    color: #c4c4c4;
+    margin: 30px auto;
+}
+.section_4 .desk {
+    font-size: 18px;
+    color: #666;
+    width: 100%;
+    max-width: 555px;
+    margin: 0 auto;
+    display: block;
+}
+.section_4 .galery {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 80px;
+}
+
+* {
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+.card {
+    float: left;
+    padding: 20px;
+    margin: 0 20px 0 0;
+}
+
+.donut-chart {
+    position: relative;
+    border-radius: 50%;
+    overflow: hidden;
+}
+.donut-chart .slice {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+.donut-chart .chart-center {
+    position: absolute;
+    border-radius: 50%;
+}
+.donut-chart .chart-center span {
+    display: block;
+    text-align: center;
+}
+
+.donut-chart.chart4 {
+    width: 120px;
+    height: 120px;
+    background: #f26a4a;
+}
+.donut-chart.chart4 .slice.one {
+    clip: rect(0 120px 60px 0);
+    -webkit-transform: rotate(252deg);
+    transform: rotate(252deg);
+    background: #e1e1e1;
+}
+.donut-chart.chart4 .slice.two {
+    clip: rect(0 60px 120px 0);
+    -webkit-transform: rotate(0deg);
+    transform: rotate(0deg);
+    background: #e1e1e1;
+}
+.donut-chart.chart4 .chart-center {
+    top: 7.5px;
+    left: 7.5px;
+    width: 105px;
+    height: 105px;
+    background: #f5f5f5;
+}
+.donut-chart.chart4 .chart-center span {
+    font-size: 30px;
+    line-height: 105px;
+    color: #f26a4a;
+}
+
+.donut-chart.chart4 .slice.one_2 {
+    clip: rect(0 120px 60px 0);
+    -webkit-transform: rotate(180deg);
+    transform: rotate(180deg);
+    background: #e1e1e1;
+}
+
+
+.donut-chart.chart4 .slice.two_4 {
+    clip: rect(60px 120px 240px 60px);
+    -webkit-transform: rotate(180deg);
+    transform: rotate(180deg);
+    background: #e1e1e1;
+}
+.donut-chart.chart4 .slice.one_4 {
+    clip: rect(0 120px 60px 0);
+    -webkit-transform: rotate(-54deg);
+    transform: rotate(-54deg);
+    background: #e1e1e1;
 }
